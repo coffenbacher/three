@@ -1,6 +1,11 @@
+Django==1.6
 argparse==1.2.1
 distribute==0.6.34
+extras==0.0.3
 fuzzywuzzy==0.2
-lettuce==0.2.19
+-e git://github.com/infoxchange/lettuce.git@2d4de1f9f09009551e55c5274d63e13f556e873f#egg=lettuce-dev
+python-mimeparse==0.1.4
+python-subunit==0.0.15
 sure==1.2.3
+testtools==0.9.33
 wsgiref==0.1.2
